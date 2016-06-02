@@ -1,0 +1,12 @@
+{
+  "name": "omerucel/php-rome2rio",
+  "type": "library",
+  "require": {
+    "guzzlehttp/guzzle": "3.8.1"
+  },
+  "autoload": {
+    "psr-0": {
+      "Rome2Rio": "src/"
+    }
+  }
+}
